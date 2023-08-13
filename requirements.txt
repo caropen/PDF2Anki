@@ -1,0 +1,6 @@
+PyPDF2
+openai
+os
+re
+dataclasses
+math
